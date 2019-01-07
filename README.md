@@ -2,3 +2,5 @@
 kaggleのPLAsTiCCコンペで書いたコード 綺麗にしているわけではない。モデル構築部分のコードのみ。また、特徴量作成部分はGCPとか色々な部分に散らばり過ぎてまとめるのに時間かかりそうだったので勘弁してください
 
 lightgbm_binary_logloss_oof.ipynb：各クラスに属するか否かの2値分類を実施したcode
+
+lightgbm_specz.ipynb:
