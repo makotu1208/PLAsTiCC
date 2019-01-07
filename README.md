@@ -7,4 +7,5 @@ lightgbm_binary_logloss_oof.ipynb：各クラスに属するか否かの2値分�
 lightgbm_multiclass_model.ipynb:binary_oofの結果も入れて多値分類を実施したcode
 lightgbm_specz.ipynb:speczカラムを入れて多値分類を実施したcode
 MLP.ipynb：MLPを実施してみたcode
+score_merge_and_post_process.ipynb:上記結果をマージしてpostprocessしたcode
 
