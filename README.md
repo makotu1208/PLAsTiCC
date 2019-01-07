@@ -4,8 +4,12 @@ kaggleのPLAsTiCCコンペで書いたコード。自分がわかれば良いと
 特徴量作成部分はGCPとか色々なところに色々なコードが散らばっていてまとめるのに時間かかりそうだったので勘弁してください…。
 
 lightgbm_binary_logloss_oof.ipynb：各クラスに属するか否かの2値分類を実施したcode
+
 lightgbm_multiclass_model.ipynb:binary_oofの結果も入れて多値分類を実施したcode
+
 lightgbm_specz.ipynb:speczカラムを入れて多値分類を実施したcode
+
 MLP.ipynb：MLPを実施してみたcode
+
 score_merge_and_post_process.ipynb:上記結果をマージしてpostprocessしたcode
 
